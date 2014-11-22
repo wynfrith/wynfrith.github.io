@@ -1,0 +1,17 @@
+.content{
+	padding-top:100px;
+	width:500px;
+	position:absolute;
+	left:50%;
+	margin-left:-250px;
+	text-align:center;
+	font-size:40px;
+	color:#2ECC71;
+	font-family:arial;
+	font-weight:800;
+}
+
+.content p span{
+	font-size:80px;
+	color:#27AE60;
+}
