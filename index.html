@@ -6,10 +6,12 @@
 	</head>
 	<body>
 		<div class="content">
-			<p>
-			This page <br> 
-			<span>is</span> <br>
-		   	under construction!<p>
+			<img src="lightbulb.svg" class="svg-inject" />
 		</div>
 	</body>
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="bower_components/jquery.svginject.js"></script>
+	<script>
+		$('.svg-inject').svgInject();
+	</script>
 </html>
