@@ -1,3 +1,17 @@
+<svg version="1.1" class="iconic iconic-lightbulb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="714px" height="714px" viewBox="0 0 714 714" style="enable-background:new 0 0 714 714;" xml:space="preserve">
+  <circle class="icon-container" cx="357" cy="357" r="330" stroke-width="16" stroke="#000" fill="none" />
+  <g class="iconic-lightbulb-screws">
+      <defs>
+          <clipPath id="iconic-lightbulb-screws-clip">
+              <polygon points="304.333,511 433.667,511 430,521.5 281.667,547.167 280.333,521.5"/>
+          </clipPath>
+      </defs>
+      <line clip-path="url(#iconic-lightbulb-screws-clip)" x1="430" y1="505" x2="302" y2="529"/>
+      <line class="st4" x1="430" y1="537" x2="302" y2="561"/>
+      <line class="st4" x1="430" y1="569" x2="302" y2="593"/>
+      <line class="st4" x1="410" y1="605" x2="322" y2="621"/>
+  </g>
+
   <g class="iconic-lightbulb-light">
       <defs>
           <clipPath id="iconic-lightbulb-light-clip">
